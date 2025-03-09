@@ -1,35 +1,30 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import {Header} from "./layout/header/Header.tsx";
+import {Main} from "./layout/section/main/Main.tsx";
+import {Skills} from "./layout/section/skills/Skills.tsx";
+import {Works} from "./layout/section/works/Works.tsx";
+import {Testimony} from "./layout/section/testimony/Testimony.tsx";
+import {Contact} from "./layout/section/contacts/Contacts.tsx";
+import {Slogan} from "./layout/section/slogan/Slogan.tsx";
+import {Footer} from "./layout/footer/Footer.tsx";
+import {Particale} from "./components/particle/Particale.tsx";
+import {GoTopBtn} from "./components/goTopBtn/GoTopBtn.tsx";
 
 function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    return (
+        <div className="App">
+            <Particale/>
+            <Header/>
+            <Main/>
+            <Skills/>
+            <Works/>
+            <Testimony/>
+            <Contact/>
+            <Slogan/>
+            <Footer/>
+            <GoTopBtn/>
+        </div>
+    )
 }
 
 export default App
