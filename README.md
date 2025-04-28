@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a **Personal Portfolio Website** built using **HTML**, **CSS**, **JavaScript**, and **TypeScript**.  
+This is a **Personal Portfolio Website** built using **HTML**, **CSS**, **JavaScript**, **TypeScript** and **React**.  
 It showcases my skills, completed works, and provides a way to get in touch.
 
 The project is fully responsive and optimized for different devices.
@@ -24,6 +24,7 @@ Check out the live demo here: [Portfolio](https://sergei-sls.github.io/gh-pages/
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
 
 
 ## Getting Started
