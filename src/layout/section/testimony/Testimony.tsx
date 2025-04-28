@@ -11,7 +11,7 @@ export const Testimony: React.FC = () => {
     return (
         <StyledTestimony id={'testimony'}>
             <Container>
-                <SectionTitle>Testimony</SectionTitle>
+                <SectionTitle>Pet Projects</SectionTitle>
                 <FlexWrapper direction={"column"} align={'center'}>
                     <S.IconWrapper>
                         <Icon iconId={'quote'}/>

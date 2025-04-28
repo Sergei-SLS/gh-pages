@@ -15,7 +15,7 @@ const items = [
         href: 'works'
     },
     {
-        title: 'Testimony',
+        title: 'Pet Projects',
         href: 'testimony'
     },
     {
