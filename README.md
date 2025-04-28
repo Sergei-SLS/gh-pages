@@ -7,6 +7,10 @@ It showcases my skills, completed works, and provides a way to get in touch.
 
 The project is fully responsive and optimized for different devices.
 
+## Demo
+
+Check out the live demo here: [Portfolio](https://sergei-sls.github.io/gh-pages/)
+
 ## Features
 
 - **Home** — Welcome section with a short introduction
@@ -21,9 +25,6 @@ The project is fully responsive and optimized for different devices.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## Demo
-
-Check out the live demo here: [Portfolio](https://sergei-sls.github.io/gh-pages/)
 
 ## Getting Started
 
