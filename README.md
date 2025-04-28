@@ -9,7 +9,7 @@ The project is fully responsive and optimized for different devices.
 
 ## Demo
 
-Check out the live demo here: [Portfolio](https://sergei-sls.github.io/gh-pages/)
+Check out the live demo here: [Portfolio](https://sergei-sls.github.io/portfolio/)
 
 ## Features
 
